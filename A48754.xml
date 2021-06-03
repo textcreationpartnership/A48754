@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lively character of a contented and discontented cuckold, ala-mode de Anglitere by what names or titles soever distinguished. With an apology for, and a defence of the fair and tender sex. Suited for the meridian of London.</title>
+         </titleStmt>
+         <extent>Approx. 24KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48754</idno><idno type="EEBO-CITATION">99833422</idno>
+  <idno type="VID">37898</idno>
+  <idno type="EEBO-PROQUEST">2240960497</idno>
+  
+            <idno type="STC">Wing L2590</idno>
+            <idno type="STC">ESTC R222217</idno>
+            <idno type="PROQUEST">99833422</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99833422e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48754)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2174:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lively character of a contented and discontented cuckold, ala-mode de Anglitere by what names or titles soever distinguished. With an apology for, and a defence of the fair and tender sex. Suited for the meridian of London.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>[[London] :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; place of publication suggested by cataloger.</note>
+                  <note>Copy pages stained, with slight print fade.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37898:1"/>
+            <head>The Lively CHARACTER of a CONTENTED AND <hi>Discontented Cuckold. <hi>Ala-mode de Anglitere,</hi>
+               </hi> By what Names or Titles soever distinguished. <hi>With an Apology for, and a DEFENCE of the Fair and Tender Sex.</hi> Suited for the Meridian of <hi>London.</hi>
+            </head>
+            <p>I Shall make no Preface to the following Epistle, but as the present State, or Change of the <hi>Moon</hi> offered this Subject indulgently to my Pen; for the satisfaction of the Publick, I shall first give you the Character of a Contented and Discontented <hi>Cuckold,</hi> by first examining and setting forth what a <hi>Cuckold</hi> is, and then shall pro<g ref="char:EOLhyphen"/>ceed to the different sorts, which I shall divide into Three Heads, or Branches: So <hi>first</hi> what a <hi>Cuckold</hi> is; 'tis my present opinion, and I believe, Sir, yours too, if you are not a Cuckold.</p>
+            <p>That a <hi>Cuckold</hi> is an He-<hi>Moon,</hi> a Civil Monster, and a Rational Beast, an Artificial Monster, patch<g ref="char:EOLhyphen"/>ed up between Action and Forbearance, which by his Impotence, and his Wife's Incontinence, is soon brought to perfection: If he is Jealous, then he's always in search of that which he fears to find: If he is not, his Horns are generally visible to every Body but himself: he usually lays the Egg of his own Misfortune, and his Wife hatches it, his Fondness makes her slighting, and his ill usage makes her Revengeful: His Imprudence makes her cun<g ref="char:EOLhyphen"/>ning, and his taking her to Plays and Balls, makes her improve it: His Negligence makes her mistrust<g ref="char:EOLhyphen"/>ful, and his Insufficiency makes her unsatiable. In short, he's either a good natured Fool, or an ill natured Knave; for extreams in Fondness and se<g ref="char:EOLhyphen"/>vere usage are the principal Causes of <hi>Cuckoldom</hi> in general.—Now I find there are Three sorts of these Monstrous Animals, and all three of different tempers, which may properly go under these Names or Titles, 1. <hi>The <hi>Stagg-Cuckold.</hi>
+               </hi> 2. <hi>The <hi>Goat-Cuckold.</hi>
+               </hi> 3dly, <hi>The <hi>Ass-Cuckold.</hi>
+               </hi> And now to examine what the <hi>Stagg-Cuckold</hi> is? He is the only Cuckold with huge Horns that like a Stagg, going to the Brook to drink in a Sun-shi<g ref="char:EOLhyphen"/>ney-Day, sees in the Water the shaddow of his Horns, being proud of them, he stalks, because he thinks himself better guarded than the rest of the Beasts; and this Cuckold having a very hand<g ref="char:EOLhyphen"/>some Wife, who maintains him in his Pride with the Sweat of her <hi>A</hi>—and when his Wants begin to oppress him, he invites all Company home with him, and draws them to his Wife with the eternal praise of her Wit, good Humour, and Beauty; and when he has got them together, he then is glad to find an opportunity of leaving them, in hopes of finding something at his return (for his patience) under the Candlestick to maintain his Pride, and keep his Head strong to bear his Ponderous Horns; so that he for Money takes Pride to have his Horns tiped. 2dly, the <hi>Goat-Cuckold,</hi> why is he com<g ref="char:EOLhyphen"/>pared to and called a <hi>Goat?</hi> For this Reason, and Likeness. The <hi>Goat</hi> cometh to the Brook to drink in manner as aforesaid, and looking into the Water for his Horns, he sees none, because they grow backwards: So he walks away, and thinks himself no Beast, nor indeed this sort of <hi>Cuckold</hi> thinks himself no <hi>Cuckold,</hi> he can't see his Horns, or at least his Wife is cunning, and Cuckolds him behind his Back. He loves her, she flatters him▪ one kind Word from her confutes all Reason. When he comes home, and having heard abroad the Cha<g ref="char:EOLhyphen"/>racter of his Wife, he begins to rail in an humble manner, she deceitfully flatters, hatches a Sorrow for his Jealousie, and shows it in a thousand Sobbs, Sighs, and pretended Grief. In fine, she per<g ref="char:EOLhyphen"/>swades him she is Honest, blames him for his suspi<g ref="char:EOLhyphen"/>tion, and on pretence she remains to him Virtuous; and thus he a poor Contented <hi>Cuckold,</hi> grafts his Horns behind him, for if he carries not his Wife to every PublicK Entertainment, he thinks he breaks an Article of Matrimony; he's commonly in love with the <hi>Cuckold-maker,</hi> which being a Man of note among both Sexe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, is talked on more in the Parish where he lives, than the <hi>Parson;</hi> for if either the <hi>Stagg,</hi> or <hi>Goat-Cuckolds</hi> be Traders, and their Wives pretty, then they are sure to have good Trade, having one Commodity to help off with the rest; Which reminds me of an old Story of such a Contented Cuckold, where in <hi>France,</hi> a Noble man falling in Love with a Citizens Wife, leaving no means unattempted till he had made her comply; that Lord being one day at Court, and seeing hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:37898:2"/>
+               <pb n="1" facs="tcp:37898:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:37898:3"/> Female Friend's Husband come to the Palace-Royal, and by enquiry, finding that he had Business to do, which required some time to be dispatched, He slunk away from Court to the Citizens House; but being suspected by the Lady's Brother, who detested the Debauchery of his Sister, forthwith dispatched a Messenger to Court, to acquaint his Brother-in-Law what unhappily he had discovered: The Ci<g ref="char:EOLhyphen"/>tizen taking Alarm, takes Coach, and comes <hi>Jehu</hi>-like to hinder what was already past prevention: The Wife hearing a Coach come in that furious manner, thought her self betrayed, and so advises her Gallant in Bed to rise, and abscond himself in a place she had provided; but hearing one com<g ref="char:EOLhyphen"/>ing hastily Upstairs, for hast left his Cloaths on the Bed, which she seeing, in as great hast and con<g ref="char:EOLhyphen"/>fusion, threw them into a Chest, but so unadvised, that the embroidered Sleeve of the Coat hung out, of which she took no notice, but fell a dressing her self as not concerned: So her Husband entring the Chamber, said, <hi>Madam, I understand my Lord such a one came to vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t you this Morning, and so I thought he might have Business of Importance to whisper in my Ears and this ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me return sooner than expected.</hi> The Lady confidently replied, That he was misinformed, for no Body had been with her that Day: So he look<g ref="char:EOLhyphen"/>ing about, espies the embroidered Sleeve hang out o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Chest, asking whose it was? and how it came there? To which she in subtilty replied, <hi>Sir, I b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g Pardon for my forgetfulness, for this Morning a Gentlewoman wanting Money, brought it to shew you, desiring to have but</hi> 40 <hi>Crowns lent upon it.</hi> Which he viewing without discovering any Passion, put it on, with Breeches, Hat and Cravat which he found in the Chest; and being thus Lordly attired <hi>Cap a pee,</hi> like the <hi>Stagg,</hi> admires and adores himself, asking his Wife if he looked not like a Lord? Yet pittying the poor Gentleman that owed them, say<g ref="char:EOLhyphen"/>ing, That in all probability he had been at Play all Night, and losing all, was forced to Pawn and deposite his Garments, and so must be then in a Cold for his Heat of Fancy. So in hast to Court he returns thus accoutred, where being discovered, was brought before the King, and an Answer ex<g ref="char:EOLhyphen"/>pected, wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch was readily performed, saying, That his intent of coming th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther in that Garb, was to restore them to the right Owner again, being as he supposed, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome Courtiers, and perhaps stolen from thence; therefore as he judged the best for the Owner to come by his Goods, was, by Sight more than Description of them. So the King knowing the Owner, immediately sends to the Mercers House for him, and being met with, disguised in an old Black Gown, was brought before the King, which asked him, If he had been a Conjuring? seeing he looked like a Conjurer. To which he replied, That this Morning he had raised the <hi>Devil,</hi> and laid his Dam, but at last had conjured him into <hi>Hell-Hole,</hi> and so Laid him. To which the King replied, in Rallery as a Check; <hi>If for no other Cause than making such a Metamorphesis, for now a Mercer is chanted into a Lord, and a Lord into a Conjurer.</hi> So dismissing them, allotted the Mercer the Suit in part of Satis<g ref="char:EOLhyphen"/>faction, and the other only Shame as a just Reward. So 3dly, The <hi>Ass-Cuckold</hi> is Jealous without Cause, Suspitious without Grounds, and believes all that looks upon his Wife, Cuckolds him, tho' she is honest: He is compared to an <hi>Ass,</hi> by reason an <hi>Ass</hi> coming on a Sun-shining-Day to drink (as the <hi>Stagg</hi> and <hi>Goat</hi> aforesaid) looks into the Water, and sees no Horns, but a great pair of Ears, which he takes for Horns, and believes they are so. So a Man had as good be <hi>Cuckold</hi> as think himself so; he believing like the <hi>Ass,</hi> he has Horns, goes sloath<g ref="char:EOLhyphen"/>fully away, lives discontented, plagues his Wife for her Honesty, which is enough to make him a Cuckold. So it is mani<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est that the <hi>Stagg</hi> and <hi>Goat-Tuckolds</hi> are the Contented ones; and like<g ref="char:EOLhyphen"/>wise it appears plain that the <hi>Ass</hi> is the Disconted one; and all Discontented <hi>Cuckolds</hi> frets, fumes, swears, swaggers and makes all People privy to their Disgrace and loss of Reputation, complaining of the Burthen of their Horns, prescribing Cam<g ref="char:EOLhyphen"/>phire to their Wifes, a a Remedy for Inconti<g ref="char:EOLhyphen"/>nency, and indeed lashes themselves with their own Disgrace; the last Remedy they have is to try the Law, and there they find ease by Lopping their Horns; and for a great deal of Money, and Dis<g ref="char:EOLhyphen"/>grace, purchase the Salve of Seperation, to anoint their Forehead, to drive away the Head-ach.</p>
+            <p>But now we should examine what is it makes so many <hi>Cuckolds</hi> in this our fruitful Nation, and who ought most to be <hi>Cu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kolds?</hi> First, I think the mighty Money'd-Men who Marry for Money, know<g ref="char:EOLhyphen"/>ing their own Insufficiency (after Matrimony is mumbled over) their only care is to find ont a hand<g ref="char:EOLhyphen"/>some Whore, to whom they liberally give part of their Wive's Portion to bear with their Insuffi<g ref="char:EOLhyphen"/>ciency▪ and put their Wives to lie alone, which is enough to make the Modestest Woman in nature extravagant with her Joynture, and her Husband's Coppy-hold to a young brisk Gallant; and indeed they have a good Argument on their sides, besides Nature, and I think very prevailing: For what were they made for? or at least what were they Married for? They doubtless would not bring a Portion to an Husband without the expectation of something to be returned or performed to make their — merry; and truly I think it is the Mens fault they are such Cuckolds; For if they are not able, why do they Marry? If they are, why don't they give due to their Wives? Therefore I see no blame upon the Womens side, for following the Ru<g ref="char:EOLhyphen"/>diments of Nature, and I think it is but a modest Folly. But as for the <hi>Cuckolds</hi> I will put them all together, and conclude with this Character, that
+<pb n="3" facs="tcp:37898:3"/> they are Horned, Cornuted, Scorned, Jealous, Le<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ving, Simple, Patient, Conniving, Contented, Poo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Good Humoured <hi>Animals,</hi> which dare not for a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Empire go an Hunting, left their Dogs take them f<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Acteon,</hi> and worry them; They are indeed som<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> times resolved to proclaim their Shame, but the fear that by that means they shall increase th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Number of their Wives Acquaintances.</p>
+            <p>Since as its observable, its ordinary with some to exc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aim against Inconstancy, and to decry those which they cause to desert them; whereas at the same tim<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they are glad to have an Example of Change: For it happens but too often that the best established Friendships, tho' they have the most strict Obliga<g ref="char:EOLhyphen"/>tions and Confidences, yet often insensibly slacken; and then we seek a Quarrel, and seem to be Angry, to the end of finding some Pretence to set our selves at Liberty, and since Crimes in the stronger not only pass for Innocent, but also get Honour and Renown by being committed with more Pomp, and a greater number, when Weakness and Innocency is no pro<g ref="char:EOLhyphen"/>tection against the Arbitrary Cruelty of a Tyranni<g ref="char:EOLhyphen"/>cal Power; for where Malice and Force is joyned in the Prosecution, then Accusing is Proving. And since this wants a President in <hi>Heathenish</hi> Nations, it will make any considering Person cease to wonder that so little of true <hi>Charity</hi> is to be found in the <hi>Christian▪ Cuckoldom,</hi> that Bugbear (in former days as terrible to a Courtier as his <hi>Princes</hi> Frowns, and more dreadful to an old Citizen than <hi>Popery</hi> and Slavery) is now advanced to such a Dignity, that its crept into Great Families, and become the Serious Consideration of the Grand Council; and so far from being thought Scandalous now, that its grown the most Useful Liberty imaginable in a Married State, and upon occasion serves to dissolve that Gordion Knot which the <hi>Priest</hi> so craftily tyes to the Misfortune of many Thousands, who have unwarily fallen under the fatal Conjugation. So that <hi>Milton</hi>'s advice in the case of Divorce, would be very seasonable; and since it is reckoned amongst the Glories of our Nation, that its a Paradise for the Fair and Tender Sex, tho' some in my weak judgment can, and must consist in nothing more than the Faithfulness and Activity of the Stonger Sex, which to its shame and great grief of the Weaker, its observable that there is a very sensible decay, both of the first Faith, and the true Old <hi>English</hi> Valour. The occasion of all which insuf<g ref="char:EOLhyphen"/>ferable Disaster, after a serious Enquiry and Dis<g ref="char:EOLhyphen"/>cussion of the point among the Learned, we can at<g ref="char:EOLhyphen"/>tribute to nothing more than the Husband's keeping Misses under their Dames Noses, and of excessively using them; and that new-fangled and abominable <hi>Heathenish</hi> Liquor called <hi>Coffee,</hi> both which rifling Nature of h r choicest Treasures, and drying up the Radical moisture, has so Eunucht the Husbands, that they are become as Impotent as Age, and as unfruitful as a common Town Jilt, and those Desarts from whence that unhappy Berry is said to be brought. So were it not in a Wom<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n's power to recompence the Slavery of her servile Station, and revenge the Affronts and cool Neglects she is under a Conjugal necessity of enduring from her Husband, which tho' he be a Creature born to the best advantage of things without him, having the start at the begining, but loitering it away be<g ref="char:EOLhyphen"/>fore the end, looking like his Land, as heavily and dirtily, as stubbornly; the Chief burthen of his Brain being altogether the Carriage of his Body, him<g ref="char:EOLhyphen"/>self being less real than his Title; his Virtue is, that he was his Father's Son, and all the expectation of him is to beget an other, which cannot possibly be, seeing the Wife has but the Relicks, and Refuse of the Misses. So as was said before, were it not in the power of the weak Sex to recompence and retaliate, having the same Liberty and Property as the Stronger. Would any Charming Innocence is their Senses, think ye, for the sake of empty Honour, and Coach and Six, a plentiful Estate and Table, suffer an old Withered Hand, and Battered Body, to crop the Flower of her Virginity, and waste her Youth and Beauty in Fruitless Embraces, under the p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evish Checks and Snubs of Old Age, and Rottenness, Jealousie and Imp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tence, for such counts a chast Man, and Maid; the first an Eunuch; the other a Miracle of the Age; this mistrust in all probability creates Jealousie; and what can such a Compound of Infirmities being made, even an Eunuch in the middle Age, by the Debaucheries of his Youth. What, I say, can such expect f om a W<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe possessed of all the Charms and Perfections that can be lodged by Nature in Blooming Juvenility? Can any rationally think that such a Charming Cre<g ref="char:EOLhyphen"/>ature endued with Sense and Spirit, will, or can l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng endure with patience a Mistress kept under her Nose, which depriving her of he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> due, and ap<g ref="char:EOLhyphen"/>proaching the Nuptial Bed, expects from her chosen Husband that which the <hi>Apostle</hi> calls Benevolence, but being deprived of it, m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets only with a Bed or Bag full of Bones, as sapless as Kixes, and dryer than Pumice-stones; this verily would image a she-Bear. So that contrary to the Oath of forsaking all others, and keeping only unto her so long as they both shall live; and also the Laws of both God and Man, and Liberties and Properties of the weaker S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x. I beg leave to make this supposi ion, since as some of the Sex do complain that their Antient Rights and Privileges have not been inviolably preserved, and restored, what if that Sex, supposing and fin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing their Rights infringed, and themselves imposed upon, <hi>which in the beg nning was not so:</hi> What, I say, if they finding themselves uneasie, &amp; for a redress should imitate their wise Grandmothers, when the <hi>Lurdains</hi> were overcome, or turn <hi>Amazons,</hi> and so like d s<g ref="char:EOLhyphen"/>contented Attoms, to have the privilege of <hi>Kent,</hi>
+               <pb facs="tcp:37898:4"/> betake themselves to <hi>Cuckolds-Point,</hi> which King <hi>John</hi> dubded, and endued with Privileges; what I say <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f such Attoms should fall there into a Conven<g ref="char:EOLhyphen"/>tion, and thence naturally grow into a <hi>Parliament of Women,</hi> and l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke the <hi>Amazons,</hi> chuse a Queen to give Sanction to their Laws, do you not think that they would redress all the Grievances of their Sex, by enacting? <hi>First,</hi> That no Man by what Names or Titles soever distinguished, should violate his Marriage-Oath, by keeping of Mistresses, or brea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing into other Mens Ground, or drinking too mu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h of the Stygian Liquor <hi>Coffee,</hi> which as woful Exper<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ence teacheth infeebles Nature, that its no Prodig<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> now that the Off-spring of such dwindle into <hi>Ap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> and <hi>Pignies,</hi> or infernal Consumptive Brats: The<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>fore the Edictwill put every Husband under the Pena<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty of being <hi>Cuckolded;</hi> if they do not give some oth<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and better Testimonies of their being Men, beside, their Beards and wearing of empty <hi>Pantalcons.</hi>
+            </p>
+            <p>
+               <hi>Secondly, That all Parents in the disposal of their Children i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Marriage, make not Smithfield bargains, but match them as <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the beginning, with as much care and prudence as they do the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dogs and Horses: which would as in them, if not altogethe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mutually preserve the state of Matrimony from any Adultero<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Invasion, &amp;c. For what understanding Jocky or Sports-man wil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> endure or suffer that an old surfeited Srallion, which is bo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oundred, Wind-galled and Spavined, to Leap his Hunting or Running Mare which he keeps for Breed; or suffer his Fine Sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ped Grey-Hound to Bastardise her Breed with an old Mangy-Mung<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>il: Yet for all that, his Handsome Darling Daughter must be thrown away upon some Old Rich Miserly Curmudgion, which only Marries to palliate his Gouty Pains, and cherish <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eeble Carcass in the Winter of his Age, by her Warm <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do<g ref="char:EOLhyphen"/>ing Touches, and <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>braces: Or else to a Man of Hono<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r and Estate, whose chiefest Studies are his Sports, and Vices having spent his best Blood and Spirits in his Mistresses Service: So to his New Bride grows Drowsy, Lazy, Moro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and Insufficient; so that the Lady is to be pittied, who either for want of Discretion in her Parents, or her self, has unhappily cast her Pearl before Swine, who knowing not how to use it, gives just occasion to dispose of the precious Jewel to him which can <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ver<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it to its Natural Imployment. It's therefore an Unna<g ref="char:EOLhyphen"/>tural Imposition on the Fair Sex to be thus disposed on; for tho' the Worldly Interest, Obedience to Parents, or Importunities of Relations, may prevail upon them to put Nature in Masque<g ref="char:EOLhyphen"/>rade, as to be seemingly satisfied.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, If it be further Enacted, That if any Man, whether a Stagg, Goat, or Ass-Cuckold, that has thought and reported his Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to be Vertuous, for which he first loved and afterward Married her, yet by his Unfaithfulness, allienates her Affections, and underhand committeth a base Suit to cause disdain, shall not give this Blow which his own Vice hath caused and given him, or out of Interest and Policy rail s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ddenly at her, for fear he be no<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d for a F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ol and an Ass: but to his, and her Friends, and Rela<g ref="char:EOLhyphen"/>tions in private i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> may say, that his judgment was blinded by her cunning Disgui<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nding her without provocation wa<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ring in Go<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dness, may its confessed in time, openly profess to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> at her▪ b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t with a modestly <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orsooth, as if he was loth to bring his judgment into question; nor would he do it but as a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hristian, prefering Truth even out of his own reach; and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ranting that Bishop Cozen's Argument is true▪ and valid, viz. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hat those Canons which governs the Spiritual Court in the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atter of Divorce, are but the Relicks and Remains of Popery. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd so not obligatory to us of the Reformed Religion: But with <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll humble Submission to my Superiors, I beg leave to say, that <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>o Divorce for what Cause soever, unless the Person be Innocent, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd not Guilty of the same Sin, can be accounted Lawful, that</hi> the Person Divorcing may Marry again; and this I gather from our <hi>Saviour's</hi> own Words, which are mentioned by St. <hi>John</hi> 7. from the 4th Verse to the 12th. The <hi>Pharisees</hi> bring a Woman to him taken in Adultery in the very Act, which was not only Di<g ref="char:EOLhyphen"/>vorcing, but Death by the <hi>Jewish</hi> Law. Now the Accuser going beyond all Suspition, Surmise and Jealousie, in taking her in the Act; one of which I will beg leave to suppose to be her Husband, with Witness sufficient, and our <hi>Saviour</hi> being one of the Sanadrim or Seventy Judges, before whom they brought her to be tryed, they telling him that <hi>Moses</hi> commanded that such an one should be Stoned to Death; <hi>But what sayest thou?</hi> &amp;c. This they tempt<g ref="char:EOLhyphen"/>ingly said, that they might have to accuse him, <hi>v.</hi> 5. But lifting up himself, thus replied, <hi>That he that was without Sin, let him first cast a Stone at her.</hi> Which is as much as if he had said, You <hi>Pharisees,</hi> or thou <hi>Husband,</hi> and ye Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nesses that know and find that according to Law her Crime being thus plainly pro<g ref="char:EOLhyphen"/>ved by sufficient Witnesses, and her own Confession deserves Death: So if either You or her Husband, whose Hands by the Law must be upon her first, or any of you Witnesses be without Sin, or Innocent, cast <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccording to the Law, Stones at her till she dye. So both her Husband, and others, being Convicted in their own Consciences of guilt, went out, and left her alone; Which when <hi>Jesus</hi> seeing, asked her, (vers. 10.) <hi>If no Man had condemned her?</hi> To which she Answers, <hi>No man Lord.</hi> To which he replies, (vers. 11.) <hi>Neither do I condemn thee, go and Sin no more.</hi> And since for his Releasing and not Condemn<g ref="char:EOLhyphen"/>ing her according to Law, they had or could have no advantage to accuse him; And also his not Di<g ref="char:EOLhyphen"/>vorcing of her, by causing the Husband to give her a Bill, which <hi>Moses,</hi> as he confesses, commanded, <hi>Matth.</hi> 20.7, 8. where he tells them, That <hi>Moses caused and suffered such things, because of the hardness of their Hearts, but in the beginning</hi> (before <hi>Moses</hi> was) <hi>it was not so.</hi>
+            </p>
+            <p>So to conclude, you see, that Confessed and Pro<g ref="char:EOLhyphen"/>claimed <hi>Cuckoldom</hi> is nor was not only <hi>Christian,</hi> but <hi>Jewish</hi> also.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Licens'd according to Order.</hi>
+            </p>
+            <p>Sold by the Booksellers of <hi>London</hi> and <hi>Westminster,</hi> 1700.</p>
+            <pb facs="tcp:37898:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
